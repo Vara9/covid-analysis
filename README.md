@@ -1,5 +1,5 @@
-# covid-analysis
-Does the patients have corona or not! 
+# Analysis of Corona Dataset
+
 The main aim of the Project was to perform Exploratory Data Analysis and Perform cleaning and perform predictions from the Corona Dataset.
 
 Imported various Python libraries such as Pandas, NumPy, Seaborn and Matplotlib into Google Collab and Readed the corona dataset using read_csv() function and checked for duplicates and null values. As there is no null values or duplicates in the dataset we gone ahead in observing the dataset's unique values in every column separately.
