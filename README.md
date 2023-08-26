@@ -16,20 +16,20 @@ In coclusion the accuracy we get in knn, decision tree and random forest got 98%
 
 The project file is attached below.
 
-000
+[project_file](https://github.com/Vara9/covid-analysis/blob/main/ml%20project%202/ML%20project2.ipynb)
 
 The data of the project file is attached in the link below.
 
-000
+[Dataset](https://github.com/Vara9/covid-analysis/blob/main/ml%20project%202/corona_tested_006.csv)
 
 The cleaned data after performing data cleaning is attached below.
 
-000
+[cleaned dataset](https://github.com/Vara9/covid-analysis/blob/main/ml%20project%202/cleaned_covid_dataset.csv)
 
 The cleaned dataset after imputation techniques are implemented is attached below.
 
-000
+[new_cleaned_dataset](https://github.com/Vara9/covid-analysis/blob/main/ml%20project%202/new_cleaned_covid_dataset.csv)
 
 The sql file which is attached below contains queries used to obtain observations in the cleaned dataset.
 
-000
+[sql_queries](https://github.com/Vara9/covid-analysis/blob/main/ml%20project%202/sql_queries.sql)
